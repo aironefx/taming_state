@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="195f5def-aa5f-4eb7-a145-5b391807ee1c" name="Default Changelist" comment="" />
+    <list default="true" id="195f5def-aa5f-4eb7-a145-5b391807ee1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArchivableList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchableList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +29,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZS1D6amIDB8xNhddJoGyo0mieS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,11 +44,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roman\WebstormProjects\react-test\src\connecting" />
+      <recent name="C:\Users\roman\WebstormProjects\react-test\src\components" />
+      <recent name="C:\Users\roman\WebstormProjects\react-test\src\actionCreators" />
+      <recent name="C:\Users\roman\WebstormProjects\react-test\src\reducers" />
+      <recent name="C:\Users\roman\WebstormProjects\react-test\src\actionTypes" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -58,7 +87,22 @@
       <option name="presentableId" value="Default" />
       <updated>1584817558918</updated>
       <workItem from="1584817560952" duration="2855000" />
-      <workItem from="1584858631642" duration="1653000" />
+      <workItem from="1584858631642" duration="2252000" />
+      <workItem from="1585170621896" duration="1175000" />
+      <workItem from="1585210319416" duration="3000" />
+      <workItem from="1585210328845" duration="6000" />
+      <workItem from="1585210375233" duration="17000" />
+      <workItem from="1585210402039" duration="3000" />
+      <workItem from="1585210423045" duration="6000" />
+      <workItem from="1585210439912" duration="22000" />
+      <workItem from="1585210537615" duration="28000" />
+      <workItem from="1585210573755" duration="4000" />
+      <workItem from="1585210596100" duration="42000" />
+      <workItem from="1585210998905" duration="36000" />
+      <workItem from="1585211041551" duration="1563000" />
+      <workItem from="1585249306027" duration="2761000" />
+      <workItem from="1585407064286" duration="60000" />
+      <workItem from="1585423226142" duration="1041000" />
     </task>
     <servers />
   </component>
@@ -66,21 +110,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1865" height="117" key="GridCell.Tab.0.bottom" timestamp="1584820417653">
+    <state x="657" y="361" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585211033805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="117" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1584820417653" />
-    <state width="1865" height="117" key="GridCell.Tab.0.center" timestamp="1584820417653">
+    <state x="657" y="361" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1585211033805" />
+    <state x="627" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585250985065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="117" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1584820417653" />
-    <state width="1865" height="117" key="GridCell.Tab.0.left" timestamp="1584820417652">
+    <state x="627" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1585250985065" />
+    <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1585211032517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="117" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1584820417652" />
-    <state width="1865" height="117" key="GridCell.Tab.0.right" timestamp="1584820417653">
+    <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1585211032517" />
+    <state width="1865" height="265" key="GridCell.Tab.0.bottom" timestamp="1585407123487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="117" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1584820417653" />
+    <state width="1865" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1585407123487" />
+    <state width="1865" height="265" key="GridCell.Tab.0.center" timestamp="1585407123487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1585407123487" />
+    <state width="1865" height="265" key="GridCell.Tab.0.left" timestamp="1585407123487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1585407123487" />
+    <state width="1865" height="265" key="GridCell.Tab.0.right" timestamp="1585407123487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1585407123487" />
+    <state x="345" y="63" key="SettingsEditor" timestamp="1585212029694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="63" key="SettingsEditor/0.0.1920.1040/1920.-32.1280.984@0.0.1920.1040" timestamp="1585212029694" />
   </component>
 </project>
